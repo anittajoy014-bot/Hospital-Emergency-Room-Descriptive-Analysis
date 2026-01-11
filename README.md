@@ -80,3 +80,44 @@ The analysis focuses on patient flow, wait times, admissions, referrals, demogra
 ---
 
 ## 📂 Project Structure
+Hospital-ER-Dashboard
+ ┣ 📄 Hospital_ER_Dashboard.pbix      # Power BI dashboard file
+ ┣ 📄 Hospital_ER_Dashboard.pdf       # Exported dashboard for quick view
+ ┣ 📄 Dataset.csv                     # Source dataset
+ ┣ 📁 Screenshots                     # Dashboard visuals
+ ┃  ┣ Monthly_View.png
+ ┃  ┣ Consolidated_View.png
+ ┃  ┣ Patient_Details.png
+ ┃  ┗ Key_Takeaways.png
+ ┗ 📄 README.md                       # Project documentation
+
+
+---
+
+## 🚀 How to Run the Project
+1. Download the `.pbix` file
+2. Open using **Power BI Desktop**
+3. Use slicers (Date, Month, Year) for dynamic filtering
+4. Navigate across report pages for multi-level insights
+
+---
+
+## 📌 Business Impact
+This dashboard enables hospital decision-makers to:
+- Optimize ER staffing during peak hours
+- Reduce patient wait times
+- Improve patient satisfaction scores
+- Identify high-pressure departments
+- Support evidence-based operational planning
+
+---
+
+## 👩‍💼 Author
+**Anita**  
+Aspiring Data Analyst | Power BI Developer | Business Intelligence  
+
+🔗 **LinkedIn: www.linkedin.com/in/anitta-joy   
+
+---
+
+⭐ If you find this project valuable, please consider starring the repository.
